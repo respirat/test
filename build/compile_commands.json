@@ -1,7 +1,0 @@
-[
-{
-  "directory": "E:/vscode/test/build",
-  "command": "D:/MinGW/bin/g++.exe   -g -o CMakeFiles/test.dir/src/hello.obj -c E:/vscode/test/src/hello.cpp",
-  "file": "E:/vscode/test/src/hello.cpp"
-}
-]
