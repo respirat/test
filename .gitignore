@@ -1,6 +1,2 @@
-build/CMakeFiles/test.dir/compiler_depend.internal
-build/CMakeFiles/test.dir/compiler_depend.make
-build/CMakeFiles/test.dir/objects.a
-build/CMakeFiles/test.dir/src/hello.obj
-build/*
-bin/*
+/build
+/bin
